@@ -1,0 +1,109 @@
+/* stylelint-disable no-missing-end-of-source-newline */
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+h1 {
+  color: #fff;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+#img-caption {
+  text-align: center;
+  padding: 15px;
+}
+
+#title {
+  text-align: center;
+  padding: 15px;
+}
+
+#img-div {
+  background: rgb(60, 118, 204);
+  padding: 10px;
+  margin: 10px;
+}
+
+p {
+  padding: 10px 50px;
+}
+
+.influential {
+  background-color: rgb(46, 78, 167);
+  max-width: 900px;
+  margin: auto;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+
+#main {
+  width: 100%;
+  margin: auto;
+}
+
+img {
+  display: block;
+  width: 80%;
+  height: auto;
+  border-radius: 20px;
+  box-shadow: 5px 10px 10px white;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.short-story {
+  font-size: 1.2rem;
+  text-align: justify;
+}
+
+.container li span {
+  font-weight: 500;
+}
+
+ul {
+  padding: 20px 50px;
+}
+
+li {
+  list-style: none;
+  margin: 10px 0;
+  color: white;
+}
+
+ul li {
+  font-size: 1.1rem;
+}
+
+.content {
+  background: rgb(19, 40, 160);
+}
+
+.achievements h3 {
+  text-align: center;
+  padding: 20px;
+  color: white;
+}
+
+.more-info {
+  text-align: center;
+}
+
+.paragraph {
+  padding: 20px;
+}
+
+footer {
+  background-color: hsl(200, 0%, 50%);
+  padding: 15px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
